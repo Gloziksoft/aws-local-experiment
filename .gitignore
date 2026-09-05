@@ -19,3 +19,7 @@ cat > .gitignore <<'EOF'
 .idea/
 .vscode/
 EOF
+
+test.txt
+.localstack/
+.env
